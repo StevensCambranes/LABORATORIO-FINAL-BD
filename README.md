@@ -1,5 +1,5 @@
 # LABORATORIO-FINAL-BD
 ###
 <div align="center">
-  <a href="LAB FINAL/futbolbd.sql" target="_blank">Laboratorio Final BD</a>
+  <a href="https://github.com/StevensCambranes/LABORATORIO-FINAL-BD/tree/master/LAB%20FINAL">Laboratorio Final BD</a>
 </div>
